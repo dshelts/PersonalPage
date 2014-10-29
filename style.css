@@ -1,0 +1,29 @@
+.textcolor-white{
+	color: white;
+}
+#adjust-container{
+	margin-top: 200px;
+	padding: 25px;
+	margin-bottom: 200px;
+	background-color:none;
+}
+
+.main-bubbles{
+	text-align: center;
+
+}
+.adjust-me-text{
+	padding-left: 35px;
+	padding-right: 35px;
+	font-size: 25px;
+}
+#dropdown-center{
+	margin-left: 225px;
+}
+html { 
+  background: url(images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
