@@ -1,29 +1,32 @@
-.textcolor-white{
-	color: white;
-}
-#adjust-container{
-	margin-top: 200px;
-	padding: 25px;
-	margin-bottom: 200px;
-	background-color:none;
+
+#featurette-background{
+  background-color: #cccccc;
+  border:2px solid;
+  border-radius: 45px;
+  color: black;
 }
 
-.main-bubbles{
+
+#header-adjustment{
+  text-align:center;
+
+}
+
+#jumbo1-bg{
+  background-color: #004877;
+  border-radius: 1px; 
+  border-color: black;
+}
+#color-me-blue{
+  background-color: #004877;
+}
+#text-center{
 	text-align: center;
+}
 
-}
-.adjust-me-text{
-	padding-left: 35px;
-	padding-right: 35px;
-	font-size: 25px;
-}
-#dropdown-center{
-	margin-left: 225px;
-}
-html { 
-  background: url(images/bg.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+.headline-image{
+  	margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    
 }
